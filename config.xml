@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Here are some configurations. Please don't change unless required</comment>
+<entry key="protocol">https</entry>
+<entry key="hostname">www.urwex.com</entry>
+<entry key="geckodriver">./geckodriver-v0.23.0-win64/geckodriver.exe</entry>
+<entry key="Heading">New listings</entry>
+<entry key="pollInterval">10</entry>
+</properties>
